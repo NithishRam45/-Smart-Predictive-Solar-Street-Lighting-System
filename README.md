@@ -338,27 +338,6 @@ Add your actual project photographs to the repository and use the following stru
 
 ---
 
-## 📁 Repository Structure
-
-The recommended repository structure is:
-
-```text
-Smart-Predictive-Solar-Street-Lighting-System/
-│
-├── README.md
-│
-├── src/
-│   └── street_light.ino
-│
-├── circuit_diagram.png
-│
-├── i1.jpeg
-├── i2.jpeg
-├── i3.jpeg
-├── i4.jpeg
-├── i5.jpeg
-└── i6.jpeg
-```
 
 ### File Description
 
